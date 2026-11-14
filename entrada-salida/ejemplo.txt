@@ -1,0 +1,5 @@
+Este es un archivo de texto de ejemplo.
+Puedes leerlo con open() y mostrarlo por pantalla.
+Contiene varias líneas para que practiques la lectura.
+Línea 4: recuerda usar encoding="utf-8".
+Línea 5: fin del archivo.
